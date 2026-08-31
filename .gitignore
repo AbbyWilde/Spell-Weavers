@@ -65,3 +65,6 @@ DerivedDataCache/
 
 # Ignore LFS pointer corruption backups
 *.lfsconfig-backup
+
+# Ignore the trailer
+*.mp4
